@@ -1,0 +1,54 @@
+
+body{
+    font-size: 26px;
+    background-color: blueviolet;
+    font-family: 
+
+}
+
+.main{
+    margin:0 auto;
+    max-width: 1500px;
+    padding: 25px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+#img1{
+    border-radius: 5px;
+    width: 303px;
+    height: 450px;
+}
+
+#text{
+    align-self: center;
+    padding: 50px;
+}
+h4{
+    color: red;
+    opacity: 0.8;
+}
+.description{
+    font-size: 17px;
+    color: black;
+    box-shadow: 2px 4px 4px red;
+    max-width: 800px;
+    padding: 20px;
+    background-color: aliceblue;
+    font-family: "Dancing Script", cursive;
+
+}
+footer{
+    text-align: center;
+    font-size: 14px;
+    font-weight: 200;
+    padding: 50px;
+}
+
+#Eduardo{
+    background-color: black;   
+}
+#Eduardo:hover{
+   color: brown;
+   font-size: 40px;
+}
